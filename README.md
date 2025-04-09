@@ -1,6 +1,7 @@
 🧠 Technical Writing Masterclass – Course Curriculum
 
 🧱 Module 1: Introduction to Technical Writing
+
 What is Technical Writing?
 
 Importance in software, hardware, and IT industries
