@@ -1,154 +1,133 @@
-🧠 Technical Writing Masterclass – Course Curriculum
+# 🧠 Technical Writing Masterclass – Course Curriculum
 
-🧱 Module 1: Introduction to Technical Writing
+Master the art and science of technical writing with a hands-on, industry-relevant curriculum designed for engineers, writers, and product professionals.
 
-What is Technical Writing?
+---
 
-Importance in software, hardware, and IT industries
+## 🧱 Module 1: Introduction to Technical Writing
 
-Types of technical documentation:
+- What is technical writing?
+- Its importance in software, hardware, and IT industries
+- Key types of technical documentation:
+  - API documentation
+  - User manuals
+  - System design docs
+  - Knowledge base articles
+- The role of a technical writer in modern teams
+- Core skills and essential tools
 
-API docs
+**✅ Assignment:** Write a short user manual for a mobile app
 
-User manuals
+---
 
-System design docs
+## 🧰 Module 2: Core Principles of Technical Writing
 
-Knowledge base articles
+- Writing with clarity, precision, and conciseness
+- Understanding your audience (technical vs non-technical)
+- Using plain language and the active voice
+- Maintaining tone, style, and consistency
+- Avoiding common grammar and syntax errors
+- Writing inclusive and accessible documentation
 
-Role of a technical writer in teams
+**✅ Quiz:** Clarity & tone evaluation
 
-Required skills & tools
+---
 
-✅ Assignment: Write a short user manual for a mobile app
+## 📐 Module 3: Document Planning & Structuring
 
-🧰 Module 2: Core Principles of Technical Writing
-Clarity, precision, conciseness
+- Fundamentals of information architecture
+- Planning documentation with outlines
+- Topic-based authoring and content chunking
+- Using mind maps and flowcharts to organize ideas
+- Templates and skeletons for scalable documentation
 
-Audience analysis (technical vs non-technical users)
+**✅ Assignment:** Create an outline for a REST API guide
 
-Using plain language and active voice
+---
 
-Tone and consistency
+## 🧩 Module 4: Writing for Developers (APIs, SDKs, CLI Tools)
 
-Common grammar traps in tech writing
+- How developers consume documentation
+- Documenting REST APIs:
+  - Request/response format
+  - Parameters, headers, error codes
+- Writing for GraphQL and WebSockets
+- Documenting SDKs and libraries (JavaScript, Python, etc.)
+- OpenAPI/Swagger and Postman essentials
+- Writing effective code samples & enabling language switching
 
-Inclusive language in documentation
+**✅ Project:** Build a complete API reference using Swagger or Postman
 
-✅ Quiz: Clarity & tone evaluation
+---
 
-📐 Module 3: Document Planning & Structuring
-Information architecture for documentation
+## 💻 Module 5: Writing for End Users (Manuals, Help Centers)
 
-Planning content with outlines
+- Creating step-by-step guides and tutorials
+- Writing onboarding flows and help documentation
+- Best practices for knowledge base content
+- Tooltips, microcopy, and in-app guidance
+- Designing effective FAQ sections
 
-Topic-based authoring
+**✅ Project:** Write a user manual and a “Getting Started” guide for a SaaS product
 
-Using mind maps or flowcharts
+---
 
-Templates and skeletons for common docs
+## 📚 Module 6: Tools of the Trade
 
-✅ Assignment: Create an outline for a REST API guide
+- Writing formats: Markdown, reStructuredText, AsciiDoc
+- The docs-as-code approach
+- Version control with Git & GitHub
+- Static site generators:
+  - MkDocs
+  - Docusaurus
+  - Sphinx
+  - Hugo
+- Collaborative tools: Notion, Confluence
+- Leveraging AI tools for technical writing
 
-🧩 Module 4: Writing for Developers (APIs, SDKs, CLI Tools)
-How developers read and use documentation
+**✅ Workshop:** Deploy a documentation site using MkDocs or Docusaurus
 
-Documenting REST APIs:
+---
 
-Request/response structure
+## 🧠 Module 7: Advanced Topics
 
-Parameters, headers, error codes
+- Information modeling for large-scale documentation
+- Visual documentation: diagrams, flowcharts, UI screenshots
+- Localization and translation strategies
+- Accessibility in documentation (WCAG compliance)
+- SEO for technical content
+- Content reuse and single-sourcing
 
-Writing for GraphQL & WebSockets
+**✅ Optional Project:** Create a localization plan for a product in 3 languages
 
-Documenting SDKs and libraries (JavaScript, Python, etc.)
+---
 
-OpenAPI/Swagger and Postman
+## 📈 Module 8: Career Paths & Portfolio Building
 
-Code samples & language switching
+- Building a professional writing portfolio
+- Hosting documentation on GitHub Pages
+- Resume and LinkedIn profile optimization
+- Exploring freelance vs in-house technical writing roles
+- Recommended certifications and communities
+- Interview prep and take-home assignments
 
-✅ Project: Create a complete API reference using Swagger or Postman
+**✅ Capstone Project:** Create a live, fully documented GitHub project
 
-💻 Module 5: Writing for End Users (Manuals, Help Centers)
-Step-by-step guides and tutorials
+---
 
-User onboarding documentation
+## 🎓 Certification
 
-Knowledge base best practices
+Upon successful completion, you'll receive:
 
-Tooltips and microcopy
+- 📜 Certificate of Completion  
+- 🧾 Portfolio-ready documentation samples  
+- 🌐 Optional hosted documentation site  
 
-FAQ design
+---
 
-✅ Project: Write a user manual and a “Getting Started” guide for a SaaS product
+## 🛠️ Optional Add-on Modules
 
-📚 Module 6: Tools of the Trade
-Markdown, reStructuredText, AsciiDoc
-
-Docs-as-code approach
-
-Git & GitHub for version control
-
-Static site generators:
-
-MkDocs
-
-Docusaurus
-
-Sphinx
-
-Hugo
-
-Collaborative tools (Notion, Confluence)
-
-Using AI tools in technical writing
-
-✅ Workshop: Deploy a documentation site with MkDocs or Docusaurus
-
-🧠 Module 7: Advanced Topics
-Information modeling
-
-Visual documentation: diagrams, flowcharts, and UI screenshots
-
-Localization & translation best practices
-
-Accessibility in documentation (WCAG)
-
-Search engine optimization for docs
-
-Content reuse and single-sourcing
-
-✅ Optional Project: Document localization plan for a product in 3 languages
-
-📈 Module 8: Career Paths & Portfolio Building
-Creating a professional writing portfolio
-
-GitHub Pages for hosting your docs
-
-Resume & LinkedIn optimization
-
-Freelance vs in-house roles
-
-Certifications and communities
-
-Interview preparation & take-home tests
-
-✅ Capstone Project: Create a live, fully documented GitHub project
-
-🎓 Certification
-At the end of the course, you’ll receive:
-
-Certificate of Completion
-
-Portfolio-ready documentation samples
-
-A hosted site (optional) with your own technical docs
-
-🛠️ Optional Add-on Modules
-Documenting internal systems (engineering runbooks, SRE playbooks)
-
-Writing RFPs, whitepapers, and business case docs
-
-Technical blogging for engineers
-
-Integrating documentation into CI/CD workflows
+- Documenting internal systems (engineering runbooks, SRE playbooks)
+- Writing RFPs, whitepapers, and business case documentation
+- Technical blogging for engineers
+- Integrating documentation into CI/CD pipelines
