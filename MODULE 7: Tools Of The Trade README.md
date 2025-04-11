@@ -24,7 +24,6 @@ Markdown is the most widely used markup language in documentation today. It’s 
 - API reference docs
 - Tutorials and quickstart guides
 
-```markdown
 # Heading 1
 ## Heading 2
 
@@ -36,6 +35,7 @@ Markdown is the most widely used markup language in documentation today. It’s 
 ```python
 def hello_world():
     print("Hello, world!")
+```
 
 ## reStructuredText (.rst)
 
@@ -65,8 +65,6 @@ AsciiDoc is a powerful format that can produce books, manuals, and complex tech 
 - Internal systems documentation
 - DocBook or PDF generation
 
----
-
 ## 🌐Docs-as-Code Workflow
 
 Docs-as-code is the practice of treating documentation like software code. This approach integrates writing into the developer workflow.
@@ -85,17 +83,13 @@ Docs-as-code is the practice of treating documentation like software code. This 
 
 ### **Workflow Overview:**
 
-```text
 Writer creates/updates docs → Commits changes → Opens PR → Peer review → Merge → Auto-deploys site
-```
 
----
-
-## 🗂️ **Version Control with Git & GitHub**
+## 🗂️Version Control with Git & GitHub
 
 Git and GitHub are foundational tools in the docs-as-code ecosystem. You don’t need to be a Git expert, but basic fluency is essential.
 
-### **Basic Git Commands for Writers**
+## Basic Git Commands for Writers
 ```bash
 git clone <repo_url>
 git checkout -b new-docs
