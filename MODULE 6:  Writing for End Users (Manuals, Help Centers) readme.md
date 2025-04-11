@@ -265,8 +265,5 @@ Start by:
 - Designing a microcopy tooltip or inline guide
 - Structuring a 5-question FAQ set
 
-Once you've done that — you’re *well on your way* to writing docs that users will actually love.
-
 ---
 
-Let me know if you'd like this as a downloadable PDF, Notion doc, or GitHub wiki version!
