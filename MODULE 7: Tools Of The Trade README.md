@@ -24,9 +24,6 @@ Markdown is the most widely used markup language in documentation today. It’s 
 - API reference docs
 - Tutorials and quickstart guides
 
-# Heading 1
-## Heading 2
-
 **Bold Text** and _Italic Text_
 
 - Bullet list
